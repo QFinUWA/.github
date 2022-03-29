@@ -1,3 +1,2 @@
 # QFinUWA
-Readme for the QFin UWA GitHub Page!
-Test!
+.github folder for the QFin UWA GitHub Organization!
