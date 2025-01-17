@@ -14,10 +14,10 @@
 
 ### Connect with us:
 <a href="https://qfinuwa.com" target="_blank"><img alt="QFin UWA | Website" src="https://img.shields.io/badge/Website%20-%212823a.svg?&style=flat&logo=react&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/company/qfin-uwa/" target="_blank"><img alt="QFin UWA | LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://www.instagram.com/qfinuwa/" alt="QFin UWA | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /> </a> &nbsp;
-<a href="https://www.facebook.com/QFinUWA/" alt="QFin UWA | Facebook" src="https://img.shields.io/badge/Facebook-blue?logo=facebook" /> </a> &nbsp;
+<a href="https://www.instagram.com/qfinuwa/" target="_blank"><img alt="QFin UWA | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a> &nbsp;
+<a href="https://www.facebook.com/QFinUWA/" target="_blank"><img alt="QFin UWA | Facebook" src="https://img.shields.io/badge/Facebook-blue?logo=facebook" /></a> &nbsp;
 <a href="https://discord.gg/pzfasHAFAn" target="_blank"><img alt="QFin UWA | Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/company/qfin-uwa/" target="_blank"><img alt="QFin UWA | LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:me@admin@qfinuwa.com" target="_blank"><img alt="QFin UWA | Gmail" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 [website]: https://qfinuwa.com
