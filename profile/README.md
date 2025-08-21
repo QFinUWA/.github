@@ -1,4 +1,4 @@
-# Hey! We're [QFin UWA][https://qfinuwa.org] 👋 
+# Hey! We're [QFin UWA](https://qfinuwa.org) 👋 
 
 ## We're a club at The University of Western Australia that are interested in Quantitative Finance! 👨🏻‍💻
 
