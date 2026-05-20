@@ -5,8 +5,8 @@
 - 🔭 We won Best New Club at The University of Western Australia in 2021!
 - 🖨️ We have hosted many Events and Workshops!
 - 📚 Our Trading Team produces Quantitative Trading Algorithms each Semester!
-- 💻 Our Sponsors for 2025: [Citadel Securities][citsecsite], [IMC][imcsite], [Jane Street][janestreetsite], [Optiver][optiversite], [SIG][sigsite], [VivCourt][vivcourtsite]!
-- 🥅 Goals for 2025: Win Best Club 2025, Make [QFin][qfinsite] the best UWA club that it can be!
+- 💻 Our Sponsors for 2026: [Citadel Securities][citsecsite], [IMC][imcsite], [Jane Street][janestreetsite], [Optiver][optiversite], [SIG][sigsite], [VivCourt][vivcourtsite]!
+- 🥅 Goals for 2026: Win Best Club 2026, Make [QFin][qfinsite] the best UWA club that it can be!
 - ⚡ We are open to collaboration with other UWA Clubs and Industry Firms!
 - 🏎️ Build a fast market maker.
 
